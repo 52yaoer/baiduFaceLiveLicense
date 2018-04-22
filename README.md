@@ -1,4 +1,4 @@
-# baiduAR
+# baiduFaceLive
 百度人脸识别模块配套License模块
 
 
@@ -17,7 +17,7 @@ Android:(需要先确认自己的电脑安装了jdk，配置javahome环境变量
    
    6.将/zip/android/baiduFaceLiveLicense文件夹压缩为baiduFaceLiveLicense.zip。
    
-   7.以上就制作好了安卓的baiduAR授权模块包。
+   7.以上就制作好了安卓的baiduFaceLive授权模块包。
    
    
 iOS：
@@ -26,5 +26,5 @@ iOS：
    
    2.将/zip/ios/baiduFaceLiveLicense文件夹压缩为baiduFaceLiveLicense.zip。
    
-   3.以上就制作好了iOS的baiduAR授权模块包。
+   3.以上就制作好了iOS的baiduFaceLive授权模块包。
    
